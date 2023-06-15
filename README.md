@@ -1,2 +1,2 @@
 # Knowledeghut
-Firs Phase - Bootcamp Class
+First Phase - Bootcamp Class
